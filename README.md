@@ -7,10 +7,18 @@
 - 考察语言掌握的**练习题**:
 	- 一些可选的在线题目，用来巩固对语法的掌握
 
-#### 语法可选资源:
+#### 语法可选资源(专注任意一个即可):
+
+> 浙江大学MOOC C语言程序设计入门 - C语言
+> http://www.icourse163.org/course/ZJU-199001
+> 
+
+难度适当，讲课速度也适当
+
+课后有附一些习题，酌情选择做或不做
 
 > Youtube:C++ Tutorial
-> 链接:
+> 链接:https://www.youtube.com/watch?v=vLnPwxZdW4Y&t=10767s
 
 只需要看前3个小时，从指针(Pointer)开始，不用看了就.
 
