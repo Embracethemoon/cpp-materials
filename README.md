@@ -1,8 +1,4 @@
-# cpp-materials
-
-Some C++ learning resources for beginner
-
-## 学习路线:
+## C++ 学习路线:
 
 - 学习基本**语法**
 	- 变量，表达式，输入，输出，循环，逻辑，结构体，函数等基本内容
